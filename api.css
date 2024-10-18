@@ -1,0 +1,36 @@
+#nombreanimal {
+    font-size: 300%;
+    color:green;
+}
+#titular {
+    color: yellow;
+}
+h1, h2 {
+    color:aqua;
+}
+#inputs {
+    display: flex;
+    flex-direction: column;
+    width: 25%;
+}
+body {
+   background-color: black; 
+   text-align: center;
+   justify-content: center;
+   align-items: center;
+   display: flex;
+   flex-direction: column;
+}
+input {
+    margin-bottom: 10pt;
+    height: 40px;
+    text-align: center;
+    font-size: 200%;
+    font-weight: bold;
+}
+button {
+    height: 50px;
+    font-size: 250%;
+    font-weight: bold;
+    background-color:greenyellow;
+}
